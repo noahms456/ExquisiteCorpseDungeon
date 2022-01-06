@@ -1,5 +1,5 @@
 # ExquisiteCorpseDungeon
-A collaborative, multi-user, Gygaxian-Democracy fueled consensual nightmare.
+A collaborative, multi-author, Gygaxian-Democracy fueled consensual nightmare.
 
 The idea is to use freely available software, or at least _formats_ to collaboratively work on a sprawling
 complex of treasure-, monster-, and trap-filled rooms wherein adventurers can go to get rich or die tryin'.
